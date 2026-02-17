@@ -7,7 +7,7 @@ Software and Blockchain Developer
 I'm a software and Blockchain developer and I'm working at Perigea Srl, a financial consulting company. <br>
 
 * 🌍  I'm based in Padua
-* 🚀  I'm currently working on [Raccoon Fantasy](http://play.raccoonfantasy.com)
+* 🚀  I'm currently working on Tokenization projects!
 
 <br/>
 
