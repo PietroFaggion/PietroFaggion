@@ -4,7 +4,7 @@ Hi 👋 My name is Pietro Faggion
 Software and Blockchain Developer
 ---------------------------------
 
-I'm a software and Blockchain developer and I'm working at Perigea Srl, a financial consulting company. <br>
+I'm a software and Blockchain developer and I'm working at Be Shaping the Future, a financial consulting company. <br>
 
 * 🌍  I'm based in Padua
 * 🚀  I'm currently working on Tokenization projects!
